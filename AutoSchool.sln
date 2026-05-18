@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37301.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSchool.Web", "AutoSchool.Web\AutoSchool.Web.csproj", "{4BA35BED-3443-1C18-52A8-B4B5BAB77BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSchool.Domain", "AutoSchool.Domain\AutoSchool.Domain.csproj", "{84146FDA-93DD-46DB-9ED3-3170C4F60705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA35BED-3443-1C18-52A8-B4B5BAB77BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA35BED-3443-1C18-52A8-B4B5BAB77BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA35BED-3443-1C18-52A8-B4B5BAB77BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA35BED-3443-1C18-52A8-B4B5BAB77BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84146FDA-93DD-46DB-9ED3-3170C4F60705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84146FDA-93DD-46DB-9ED3-3170C4F60705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84146FDA-93DD-46DB-9ED3-3170C4F60705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84146FDA-93DD-46DB-9ED3-3170C4F60705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC4B8BF-AA12-40F9-ACDC-103136A05B60}
+	EndGlobalSection
+EndGlobal
